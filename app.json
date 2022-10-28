@@ -1,0 +1,45 @@
+{
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-8729155062978089~5960590575"
+  },
+  "expo": {
+    "owner": "akashgandhar007",
+    "name": "Flash News",
+    "slug": "flash-news-v1",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#f3b61f"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "versionCode": 5,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#f3b61f"
+      },
+      "googleServicesFile": "google-services.json",
+      "package": "com.akash.dev.FlashNews"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8391be0f-2d1c-4268-a829-acad1af11ef5"
+      }
+    }
+  }
+}

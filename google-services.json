@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "861728993977",
+    "project_id": "flash-news-93e4b",
+    "storage_bucket": "flash-news-93e4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861728993977:android:dc91e2c2d429eb68d3a168",
+        "android_client_info": {
+          "package_name": "com.akash.dev.FlashNews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861728993977-s3spakaqk033sa7fiva2o7s6e0tada9r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akash.dev.FlashNews",
+            "certificate_hash": "7015b6cb630c5477c0160c61ee7293002ba65bb9"
+          }
+        },
+        {
+          "client_id": "861728993977-jv86q179te5er9n9lsjelpohfd62vric.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrw3txr9C_hXABp67xE5bZFjbW4typ6K8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861728993977-jv86q179te5er9n9lsjelpohfd62vric.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8729155062978089~5960590575"
+    }
+  ],
+  "configuration_version": "1"
+}
